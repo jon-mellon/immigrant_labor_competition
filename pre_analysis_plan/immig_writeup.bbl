@@ -1,0 +1,1341 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Abou-Chadi2015}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Abou-Chadi}{A.-C.}%
+     {Tarik}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ACT1}
+  \strng{fullhash}{ACT1}
+  \field{labelyear}{2015}
+  \field{sortinit}{A}
+  \field{abstract}{%
+  This article investigates the impact of niche party success on the policy
+  agendas of mainstream parties. Following from the expected electoral effects
+  of issue politicization, the success of radical right and green parties will
+  cause different reactions from mainstream parties. While mainstream parties
+  emphasize anti-immigrant positions in response to radical right success,
+  green party success will have the opposite effect for environmental issues.
+  Since green parties constitute issue owners, their success will make
+  established parties de-emphasize the environment. Analyzing time-series
+  cross-section data for sixteen Western European countries from 1980 to 2011,
+  this article empirically establishes that green and radical right parties
+  differ in their effect on mainstream party behavior and that their impact
+  depends on the ideological position and past electoral performance of the
+  mainstream parties.%
+  }
+  \verb{doi}
+  \verb 10.1017/S0007123414000155
+  \endverb
+  \field{issn}{0007-1234}
+  \field{pages}{1\bibrangedash 20}
+  \field{title}{{Niche Party Success and Mainstream Party Policy Shifts – How
+  Green and Radical Right Parties Differ in Their Impact}}
+  \verb{url}
+  \verb http://journals.cambridge.org/JPS$\backslash$nhttp://journals.cambridge
+  \verb .org/abstract{\_}S0007123414000155
+  \endverb
+  \field{volume}{forthcomin}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/S0007123414000155a.pdf:pdf
+  \endverb
+  \field{journaltitle}{British Journal of Political Science}
+  \field{year}{2015}
+\endentry
+
+\entry{Akkerman2012}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Akkerman}{A.}%
+     {Tjitske}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{electoral competition,immigration,mainstream parties,radical right
+  parties}
+  \strng{namehash}{AT1}
+  \strng{fullhash}{AT1}
+  \field{labelyear}{2012}
+  \field{sortinit}{A}
+  \verb{doi}
+  \verb 10.1177/1354068812462928
+  \endverb
+  \field{issn}{1354-0688}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 23}
+  \field{title}{{Immigration policy and electoral competition in Western
+  Europe: A fine-grained analysis of party positions over the past two
+  decades}}
+  \verb{url}
+  \verb http://ppq.sagepub.com/cgi/doi/10.1177/1354068812462928
+  \endverb
+  \field{volume}{0}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/Party Politics-2015-Akkerman-54-67.
+  \verb pdf:pdf
+  \endverb
+  \field{journaltitle}{Party Politics}
+  \field{year}{2012}
+\endentry
+
+\entry{Bohrer2013}{article}{}
+  \name{author}{10}{}{%
+    {{}%
+     {Bohrer}{B.}%
+     {Kevin}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burnett}{B.}%
+     {Nick}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Das}{D.}%
+     {Jishnu}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Glennerster}{G.}%
+     {Rachel}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Graham}{G.}%
+     {Mary}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Guggenheim}{G.}%
+     {Scott}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Han}{H.}%
+     {Hari}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Herringshaw}{H.}%
+     {Vanessa}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Joshi}{J.}%
+     {Anuradha}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Khwaja}{K.}%
+     {Asim}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{accountability,development,experiment,freedom
+  of,india,information,participation,randomized control trial,rct,right to
+  information,transparency,uganda}
+  \strng{namehash}{BK+1}
+  \strng{fullhash}{BKBNDJGRGMGSHHHVJAKA1}
+  \field{labelyear}{2014}
+  \field{sortinit}{B}
+  \field{pages}{1\bibrangedash 24}
+  \field{title}{{Public Attitudes toward Immigration}}
+  \field{volume}{17}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/SSRN-id2289270.pdf:pdf
+  \endverb
+  \field{journaltitle}{Annual Review of Political Science}
+  \field{year}{2014}
+\endentry
+
+\entry{Borjas2003}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Borjas}{B.}%
+     {George~J.}{G.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BGJ1}
+  \strng{fullhash}{BGJ1}
+  \field{labelyear}{2003}
+  \field{sortinit}{B}
+  \field{abstract}{%
+  Immigration is not evenly balanced across groups of workers who have the same
+  education but differ in their work experience, and the nature of the supply
+  imbalance changes over time. This paper develops a new approach for
+  estimating the labor market impact of immigration by exploiting this
+  variation in supply shifts across education-experience groups. I assume that
+  similarly educated work- ers with different levels of experience participate
+  in a national labor market and are not perfect substitutes. The analysis
+  indicates that immigration lowers the wage of competing workers: a 10 percent
+  increase in supply reduces wages by 3 to 4 percent.%
+  }
+  \verb{doi}
+  \verb 10.1162/003355303322552810
+  \endverb
+  \field{isbn}{0033-5533}
+  \field{issn}{0033-5533, 1531-4650}
+  \field{number}{4}
+  \field{pages}{1335\bibrangedash 1374}
+  \field{title}{{The labor demand curve is downward sloping: Reexamining the
+  impact of immigration on the labor market}}
+  \field{volume}{118}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/w9755.pdf:pdf
+  \endverb
+  \field{journaltitle}{Quarterly Journal of Economics}
+  \field{year}{2003}
+\endentry
+
+\entry{Dahlstrom2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Dahlstr{\"{o}}m}{D.}%
+     {Carl}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sundell}{S.}%
+     {Anders}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier Ltd}%
+  }
+  \keyw{Anti-immigrant parties,Local government,Party strategy,Sweden}
+  \strng{namehash}{DCSA1}
+  \strng{fullhash}{DCSA1}
+  \field{labelyear}{2012}
+  \field{sortinit}{D}
+  \field{abstract}{%
+  The emergence of anti-immigrant parties in Western Europe has provoked very
+  different responses from mainstream parties. Some have tried to counter the
+  anti-immigrant parties while others have tried to recapture lost voters by
+  taking a tougher stance on immigration. Country comparative studies have
+  tried to determine the effectiveness of different strategies, but systematic
+  testing has been impaired by small-n problems. This paper therefore exploits
+  sub-national variation in 290 Swedish municipalities to investigate the
+  effect of mainstream party strategy on anti-immigrant electoral success. The
+  paper finds that a tougher stance on immigration on the part of mainstream
+  parties is correlated with more anti-immigrant party support, even when
+  controlling for a large number of socio-economic, historical and regional
+  factors. This result indicates that mainstream parties legitimize
+  anti-immigrant parties by taking a tougher position on immigration. However,
+  the results presented in the paper show that it is not sufficient for one
+  mainstream party to take a tougher position; it is only when the entire
+  political mainstream is tougher on immigration that the anti-immigrant party
+  benefits. What is more, the toughness of the parties on the left seems to be
+  more legitimizing than the toughness of the parties on the right.
+  {\textcopyright} 2012 Elsevier Ltd.%
+  }
+  \verb{doi}
+  \verb 10.1016/j.electstud.2012.03.001
+  \endverb
+  \field{isbn}{0261-3794}
+  \field{issn}{02613794}
+  \field{number}{2}
+  \field{pages}{353\bibrangedash 363}
+  \field{title}{{A losing gamble. How mainstream parties facilitate
+  anti-immigrant party success}}
+  \verb{url}
+  \verb http://dx.doi.org/10.1016/j.electstud.2012.03.001
+  \endverb
+  \field{volume}{31}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/1-s2.0-S0261379412000352-main.pdf:p
+  \verb df
+  \endverb
+  \field{journaltitle}{Electoral Studies}
+  \field{year}{2012}
+\endentry
+
+\entry{Dancygier2013}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Dancygier}{D.}%
+     {Rafaela~M}{R.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Donnelly}{D.}%
+     {Michael~J}{M.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DRMDMJ1}
+  \strng{fullhash}{DRMDMJ1}
+  \field{labelyear}{2013}
+  \field{sortinit}{D}
+  \field{abstract}{%
+  Do economic considerations shape attitudes toward immigration? In this
+  article, we consider the relationship between economic interests and
+  immigration preferences by examining how developments in individuals' sectors
+  of employment affect these views. Using survey data across European countries
+  from 2002 to 2009 and employing new measures of industry-level exposure to
+  immigration, we find that sectoral economies shape opinions about
+  immigration. Individuals employed in growing sectors are more likely to
+  support immigration than are those employed in shrinking sectors. Moreover,
+  the economic context matters: Making use of the exogenous shock to national
+  economies represented by the 2008 financial crisis, we show that sector-level
+  inflows of immigrant workers have little effect on preferences when economies
+  are expanding, but that they dampen support for immigration when economic
+  conditions deteriorate and confidence in the economy declines. These sectoral
+  effects remain even when controlling for natives' views about the impact of
+  immigration on the national economy and culture. When evaluating immigration
+  policy, individuals thus appear to take into account whether their sector of
+  employment benefits economically from immigration.%
+  }
+  \verb{doi}
+  \verb 10.1017/S0022381612000849
+  \endverb
+  \verb{eprint}
+  \verb NIHMS150003
+  \endverb
+  \field{isbn}{1468-2508}
+  \field{issn}{0022-3816}
+  \field{number}{1}
+  \field{pages}{17\bibrangedash 35}
+  \field{title}{{Sectoral Economies, Economic Contexts, and Attitudes toward
+  Immigration.}}
+  \verb{url}
+  \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3867934{\&}to
+  \verb ol=pmcentrez{\&}rendertype=abstract
+  \endverb
+  \field{volume}{75}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/S0022381612000849a.pdf:pdf
+  \endverb
+  \field{journaltitle}{The Journal of Politics}
+  \field{eprinttype}{arXiv}
+  \field{year}{2013}
+\endentry
+
+\entry{Dustmann2007}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Dustmann}{D.}%
+     {Christian}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Preston}{P.}%
+     {Ian~P}{I.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DCPIP1}
+  \strng{fullhash}{DCPIP1}
+  \field{labelyear}{2007}
+  \field{sortinit}{D}
+  \field{number}{1}
+  \field{title}{{The B . E . Journal of Economic Analysis {\&} Policy Advances
+  Immigration Immigration ∗}}
+  \field{volume}{7}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/viewcontent.pdf:pdf
+  \endverb
+  \field{journaltitle}{Advances}
+  \field{year}{2007}
+\endentry
+
+\entry{Facchini2013}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Facchini}{F.}%
+     {Giovanni}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mayda}{M.}%
+     {Anna~Maria}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mendola}{M.}%
+     {Mariapia}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FGMAMMM1}
+  \strng{fullhash}{FGMAMMM1}
+  \field{labelyear}{2013}
+  \field{sortinit}{F}
+  \field{abstract}{%
+  This paper empirically investigates the determinants of individual attitudes
+  towards immigration in South Africa using the 1996, 2001 and 2007 rounds of
+  theWorld Value Survey. The main question we want to answer is whether South
+  African public opinion on migration is affected by the potential labor market
+  competition of migrants towards natives. We investigate this issue by
+  estimating the impact of survey respondents' individual skill on their
+  pro-migration attitudes. Our estimates show that the impact of individual
+  skill – measured both with educational attainment and an occupation- based
+  measure – is positive and significant in both 1996 and 2001. Given that in
+  both years immigrants to South Africa are on average more skilled than
+  natives, we conclude that the labor-market channel does not play a role in
+  preference formation over immigration. What might explain the positive impact
+  of individual skill are non- economic determinants.%
+  }
+  \verb{doi}
+  \verb 10.1111/roie.12039
+  \endverb
+  \field{isbn}{4411595141}
+  \field{issn}{09657576}
+  \field{number}{2}
+  \field{pages}{326\bibrangedash 341}
+  \field{title}{{What drives individual attitudes towards immigration in South
+  Africa?}}
+  \field{volume}{21}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/Facchini{\_}et{\_}al-2013-Review{\_
+  \verb }of{\_}International{\_}Economics.pdf:pdf
+  \endverb
+  \field{journaltitle}{Review of International Economics}
+  \field{year}{2013}
+\endentry
+
+\entry{Ford2014}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ford}{F.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goodwin}{G.}%
+     {Matthew~J}{M.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Taylor {\&} Francis}%
+  }
+  \strng{namehash}{FRGMJ1}
+  \strng{fullhash}{FRGMJ1}
+  \field{labelyear}{2014}
+  \field{sortinit}{F}
+  \field{abstract}{%
+  Winner of the Political Book of the Year Award 2015 The UK Independence Party
+  (UKIP) is the most significant new party in British politics for a
+  generation. In recent years UKIP and their charismatic leader Nigel Farage
+  have captivated British politics, media and voters. Yet both the party and
+  the roots of its support remain poorly understood. Where has this political
+  revolt come from? Who is supporting them, and why? How are UKIP attempting to
+  win over voters? And how far can their insurgency against the main parties
+  go? Drawing on a wealth of new data – from surveys of UKIP voters to
+  extensive interviews with party insiders – in this book prominent political
+  scientists Robert Ford and Matthew Goodwin put UKIP's revolt under the
+  microscope and show how many conventional wisdoms about the party and the
+  radical right are wrong. Along the way they provide unprecedented insight
+  into this new revolt, and deliver some crucial messages for those with an
+  interest in the state of British politics, the radical right in Europe and
+  political behaviour more generally.%
+  }
+  \field{isbn}{1317938542}
+  \field{pages}{336}
+  \field{title}{{Revolt on the Right: Explaining Support for the Radical Right
+  in Britain}}
+  \verb{url}
+  \verb https://books.google.co.uk/books/about/Revolt{\_}on{\_}the{\_}Right.htm
+  \verb l?id=c5oXAwAAQBAJ{\&}pgis=1
+  \endverb
+  \field{year}{2014}
+\endentry
+
+\entry{Gaston2013}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Gaston}{G.}%
+     {Noel}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nelson}{N.}%
+     {Douglas~R.}{D.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{International migration,International trade}
+  \strng{namehash}{GNNDR1}
+  \strng{fullhash}{GNNDR1}
+  \field{labelyear}{2013}
+  \field{sortinit}{G}
+  \field{abstract}{%
+  This paper surveys current theoretical and empirical research on
+  international migration with a particular emphasis on the links between trade
+  theory and labour empirics.%
+  }
+  \verb{doi}
+  \verb 10.1111/j.1467-6419.2011.00696.x
+  \endverb
+  \field{isbn}{09500804}
+  \field{issn}{09500804}
+  \field{number}{1}
+  \field{pages}{98\bibrangedash 139}
+  \field{title}{{bridging trade theory and labour econometrics: The effects of
+  international migration}}
+  \field{volume}{27}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/Gaston{\_}et{\_}al-2013-Journal{\_}
+  \verb of{\_}Economic{\_}Surveys.pdf:pdf
+  \endverb
+  \field{journaltitle}{Journal of Economic Surveys}
+  \field{year}{2013}
+\endentry
+
+\entry{Goldstein2014}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Goldstein}{G.}%
+     {Judith~L.}{J.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peters}{P.}%
+     {Margaret~E.}{M.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GJLPME1}
+  \strng{fullhash}{GJLPME1}
+  \field{labelyear}{2014}
+  \field{sortinit}{G}
+  \field{abstract}{%
+  To better evaluate the weight of economic versus cultural factors in
+  determining individual attitudes toward open borders, this article reports on
+  a survey experiment conducted over the course of the Great Recession. Over
+  the course of the recession, we measured changes in attitudes on both
+  immigration and trade policies, controlling for economic circumstance. Based
+  on the data provided by respondents on both their current salaries as well as
+  a subjective assessment of their economic well-being, we illustrate how both
+  objective and subjective perceptions of the economy interact with cultural
+  factors and influence attitudes on open borders. The panel provides a unique
+  picture of the “stickiness” of policy attitudes in hard economic times,
+  and by extension, the level of commitment in the United States to
+  globalization.%
+  }
+  \verb{doi}
+  \verb 10.1080/03050629.2014.899219
+  \endverb
+  \field{issn}{0305-0629}
+  \field{number}{3}
+  \field{pages}{376\bibrangedash 401}
+  \field{title}{{Nativism or Economic Threat: Attitudes Toward Immigrants
+  During the Great Recession}}
+  \field{volume}{40}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/Nativism or Economic Threat Attitud
+  \verb es Toward Immigrants During the Great Recession.pdf:pdf
+  \endverb
+  \field{journaltitle}{International Interactions}
+  \field{year}{2014}
+\endentry
+
+\entry{Hainmueller2007}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hainmueller}{H.}%
+     {Jens}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hiscox}{H.}%
+     {Michael~J}{M.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJHMJ1}
+  \strng{fullhash}{HJHMJ1}
+  \field{labelyear}{2007}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  Recent studies of individual attitudes toward immigration emphasize concerns
+  about labor market$\backslash$ncompetition as a potent source of
+  anti-immigrant sentiment, in particular among less-educated or lessskilled
+  citizens who fear being forced to compete for jobs with low-skilled
+  immigrants willing to work for much lower wages. We examine new data on
+  attitudes toward immigration available from the 2003 European Social Survey.
+  In contrast to predictions based upon conventional arguments about labor
+  market competition, which anticipate that individuals will oppose immigration
+  of workers with similar skills to their own, but support immigration of
+  workers with different skill levels, we find that people with
+  higher$\backslash$nlevels of education and occupational skills are more
+  likely to favor immigration regardless of the skill$\backslash$nattributes of
+  the immigrants in question. Across Europe, higher education and higher skills
+  mean more support for all types of immigrants. These relationships are almost
+  identical among individuals in the labor force (i.e., those competing for
+  jobs) and those not in the labor force. Contrary to the conventional wisdom,
+  then, the connection between the education or skill levels of individuals and
+  views about immigration appears to have very little, if anything, to do with
+  fears about labor market competition. This finding is consistent with
+  extensive economic research showing that the income and employment
+  effects$\backslash$nof immigration in European economies are actually very
+  small. We find that a large component of the effect of education on attitudes
+  toward immigrants can be accounted for by differences among individuals in
+  cultural values and beliefs. More educated respondents are significantly less
+  racist and place greater value on cultural diversity; they are also more
+  likely to believe that immigration generates benefits for the host economy as
+  a whole. Together, these factors account for around 65{\%} of the estimated
+  effect of$\backslash$neducation on support for immigration.%
+  }
+  \verb{doi}
+  \verb 10.1017/S0020818307070142
+  \endverb
+  \field{isbn}{0020-8183}
+  \field{issn}{0020-8183}
+  \field{number}{2}
+  \field{pages}{399\bibrangedash 442}
+  \field{title}{{Educated Preferences: Explaining Attitudes Toward Immigration
+  in Europe}}
+  \field{volume}{61}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/educatedpreferencesio.pdf:pdf
+  \endverb
+  \field{journaltitle}{International Organization}
+  \field{year}{2007}
+\endentry
+
+\entry{Hainmueller2010}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hainmueller}{H.}%
+     {Jens}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hiscox}{H.}%
+     {Michael~J}{M.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJHMJ1}
+  \strng{fullhash}{HJHMJ1}
+  \field{labelyear}{2010}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  Past research has emphasized two critical economic concerns that
+  appear$\backslash$nto generate anti-immigrant sentiment among native
+  citizens: concerns$\backslash$nabout labor market competition and concerns
+  about the fiscal burden$\backslash$non public services. We provide direct
+  tests of both models of attitude$\backslash$nformation using an original
+  survey experiment embedded in a nationwide$\backslash$nU.S. survey. The labor
+  market competition model predicts that natives$\backslash$nwill be most
+  opposed to immigrants who have skill levels similar$\backslash$nto their own.
+  We find instead that both low-skilled and highly skilled$\backslash$nnatives
+  strongly prefer highly skilled immigrants over
+  low-skilled$\backslash$nimmigrants, and this preference is not decreasing in
+  natives' skill$\backslash$nlevels. The fiscal burden model anticipates that
+  rich natives oppose$\backslash$nlow-skilled immigration more than poor
+  natives, and that this gap$\backslash$nis larger in states with greater
+  fiscal exposure (in terms of immigrant$\backslash$naccess to public
+  services). We find instead that rich and poor natives$\backslash$nare equally
+  opposed to low-skilled immigration in general. In states$\backslash$nwith
+  high fiscal exposure, poor (rich) natives are more (less)
+  opposed$\backslash$nto low-skilled immigration than they are elsewhere. This
+  indicates$\backslash$nthat concerns among poor natives about constraints on
+  welfare benefits$\backslash$nas a result of immigration are more relevant
+  than concerns among$\backslash$nthe rich about increased taxes. Overall the
+  results suggest that$\backslash$neconomic self-interest, at least as
+  currently theorized, does not$\backslash$nexplain voter attitudes toward
+  immigration. The results are consistent$\backslash$nwith alternative
+  arguments emphasizing noneconomic concerns associated$\backslash$nwith
+  ethnocentrism or sociotropic considerations about how the
+  local$\backslash$neconomy as a whole may be affected by immigration.%
+  }
+  \verb{doi}
+  \verb 10.1017/S0003055409990372
+  \endverb
+  \field{isbn}{0003-0554}
+  \field{issn}{0003-0554}
+  \field{number}{01}
+  \field{pages}{61\bibrangedash 84}
+  \field{title}{{Attitudes toward Highly Skilled and Low-skilled Immigration:
+  Evidence from a Survey Experiment}}
+  \verb{url}
+  \verb http://dx.doi.org/10.1017/S0003055409990372
+  \endverb
+  \field{volume}{104}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/attitudestowardshighlyskilled{\_}0.
+  \verb pdf:pdf
+  \endverb
+  \field{journaltitle}{American Political Science Review}
+  \field{year}{2010}
+\endentry
+
+\entry{Hainmueller2015}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Hainmueller}{H.}%
+     {Jens}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hiscox}{H.}%
+     {Michael~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Margalit}{M.}%
+     {Yotam}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{attitudes,immigration,political economy,voters}
+  \strng{namehash}{HJHMJMY1}
+  \strng{fullhash}{HJHMJMY1}
+  \field{labelyear}{2015}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  Are concerns about labor market competition a powerful source of
+  anti-immigrant sentiment? Several prominent studies have examined survey data
+  on voters and concluded that fears about the negative effects of immigration
+  on wages and employment play a major role generating anti-immigrant
+  attitudes. We examine new data from a targeted survey of U.S. employees in 12
+  different industries. In contrast with previous studies, the findings
+  indicate that fears about labor market competition do not appear to have
+  substantial effects on attitudes toward immigration, and preferences with
+  regard to immigration policy, among this large and diverse set of voters.%
+  }
+  \verb{doi}
+  \verb 10.1016/j.jinteco.2014.12.010
+  \endverb
+  \field{issn}{00221996}
+  \field{pages}{193\bibrangedash 207}
+  \field{title}{{Do Concerns About Labor Market Competition Shape Attitudes
+  Toward Immigration? New Evidence}}
+  \field{volume}{97}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/doconcernsaboutlabormarketcompetiti
+  \verb on.pdf:pdf
+  \endverb
+  \field{journaltitle}{Journal of International Economics}
+  \field{year}{2015}
+\endentry
+
+\entry{Hainmueller2015a}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hainmueller}{H.}%
+     {Jens}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hopkins}{H.}%
+     {Daniel~J.}{D.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJHDJ1}
+  \strng{fullhash}{HJHDJ1}
+  \field{labelyear}{2015}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  Many studies have examinedAmericans' immigration attitudes. Yet prior
+  research frequently confounds multiple questions, includingwhich immigrants
+  to admit and howmany to admit. To isolate attitudes on the former question,
+  we use a conjoint experiment that simultaneously tests the influence of nine
+  immigrant attributes in generating support for admission. Drawing on a
+  two-wave, population-based survey, we demonstrate that Americans view
+  educated immigrants in high- status jobs favorably, whereas they view those
+  who lack plans to work, entered without authorization, are Iraqi, or do not
+  speak English unfavorably. Strikingly, Americans' preferences vary little
+  with their own education, partisanship, labor market position, ethnocentrism,
+  or other attributes. Beneath partisan divisions over immigration lies a broad
+  consensus about who should be admitted to the country. The results are
+  consistent with norms-based and sociotropic explanations of immigration
+  attitudes. This consensus points to limits in both theories emphasizing
+  economic and cultural threats, and sheds new light on an ongoing policy
+  debate.%
+  }
+  \verb{doi}
+  \verb 10.1111/ajps.12138
+  \endverb
+  \field{issn}{00925853}
+  \field{number}{3}
+  \field{pages}{529\bibrangedash 548}
+  \field{title}{{The Hidden American Immigration Consensus: A Conjoint Analysis
+  of Attitudes toward Immigrants}}
+  \verb{url}
+  \verb http://doi.wiley.com/10.1111/ajps.12138
+  \endverb
+  \field{volume}{59}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/Hainmueller{\_}et{\_}al-2015-Americ
+  \verb an{\_}Journal{\_}of{\_}Political{\_}Science.pdf:pdf
+  \endverb
+  \field{journaltitle}{American Journal of Political Science}
+  \field{year}{2015}
+\endentry
+
+\entry{Harell2012}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Harell}{H.}%
+     {Allison}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Soroka}{S.}%
+     {Stuart~N.}{S.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Iyengar}{I.}%
+     {Shanto}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Valentino}{V.}%
+     {Nicholas~A.}{N.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HA+1}
+  \strng{fullhash}{HASSNISVNA1}
+  \field{labelyear}{2012}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  Past research suggests that citizens' attitudes toward immigration are driven
+  by perceptions of immigrants' (a) economic status and (b) ethnicity. In this
+  study, we use an online survey conducted with a representative sample of
+  Canadians to test to what extent economic and cultural cues influence support
+  for individual immigrants. In particular, by drawing on a parallel US survey,
+  we explore whether Canadians' relatively unique (positive) attitudes toward
+  immigration make them more immune to economic and cultural threat
+  manipulations than their American counterparts. The analysis is based on an
+  experimental design embedded in a series of immigrant vignettes that vary the
+  ethnoracial background and social status of an individual applying for
+  immigration. We examine overall support for immigration, as well as the
+  extent to which both ethnic and economic status cues affect support for
+  individual immigrants. We also explore variance within Canada, specifically,
+  in Quebec versus the rest of the country. Results offer new and unique
+  information on the structure of attitudes on diversity and immigration in
+  Canada. Most importantly, they suggest the relative importance of economic
+  cues in support for immigration in both countries.%
+  }
+  \verb{doi}
+  \verb 10.1017/S0008423912000698
+  \endverb
+  \field{isbn}{00084239}
+  \field{issn}{0008-4239}
+  \field{number}{3}
+  \field{pages}{499\bibrangedash 530}
+  \field{title}{{The Impact of Economic and Cultural Cues on Support for
+  Immigration in Canada and the United States}}
+  \field{volume}{45}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/S0008423912000698a.pdf:pdf
+  \endverb
+  \field{journaltitle}{Canadian Journal of Political Science}
+  \field{year}{2012}
+\endentry
+
+\entry{Helbling2011}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Helbling}{H.}%
+     {Marc}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HM1}
+  \strng{fullhash}{HM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{H}
+  \verb{doi}
+  \verb 10.1080/14616696.2010.533784
+  \endverb
+  \field{issn}{1461-6696}
+  \field{number}{1}
+  \field{pages}{5\bibrangedash 27}
+  \field{title}{{Why Swiss-Germans Dislike Germans}}
+  \verb{url}
+  \verb http://www.tandfonline.com/doi/abs/10.1080/14616696.2010.533784
+  \endverb
+  \field{volume}{13}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/WHY SWISS GERMANS DISLIKE GERMANS.p
+  \verb df:pdf
+  \endverb
+  \field{journaltitle}{European Societies}
+  \field{year}{2011}
+\endentry
+
+\entry{Malhotra2013}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Malhotra}{M.}%
+     {Neil}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Margalit}{M.}%
+     {Yotam}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mo}{M.}%
+     {Cecilia~Hyunjung}{C.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MNMYMCH1}
+  \strng{fullhash}{MNMYMCH1}
+  \field{labelyear}{2013}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  What explains variation in individuals' opposition to immigration? While
+  scholars have consistently shown cultural concerns to be strong predictors of
+  opposition, findings regarding the labor-market competition hypothesis are
+  highly contested. To help understand these divergent results, we distinguish
+  between the prevalence and conditional impact of determinants of immigration
+  attitudes. Leveraging a targeted sampling strategy of high-technology
+  counties, we conduct a study of Americans' attitudes toward H-1B visas. The
+  plurality of these visas are occupied by Indian immigrants, who are skilled
+  but ethnically distinct, enabling us to measure a specific skill set (high
+  technology) that is threatened by a particular type of immigrant (H-1B visa
+  holders). Unlike recent aggregate studies, our targeted approach reveals that
+  the conditional impact of the relationship in the high-technology sector
+  between economic threat and immigration attitudes is sizable. However,
+  labor-market competition is not a prevalent source of threat and therefore is
+  generally not detected in aggregate analyses. COMMENT The IAT (good vs bad en
+  European American vs Indian American) is used as an implicit measure of
+  cultural threat. wtf?!? The most important result here is that
+  high-technology workers have higher opposition to H-1B visas, but not to
+  Indian immigration in general. This suggest that their reaction is specific
+  to an economic, rather than a cultural threat. However, the authors do not
+  test the interaction between both DVs and on the basis of coefficients and
+  standard errors, it does not seem to be significant. The IAT has an effect on
+  support for immigration, even after controlling for negative stereotypes and
+  cultural threat. I have one general concern. The authors separate
+  high-technology workers as a group that would be threatened by immigration of
+  Indian IT-workers. However, this group does not consist exclusively of IT
+  workers! Maybe their opposition against immigration simply reflects the fact
+  that engineers and people in the natural sciences are more prejudiced in
+  general? The fact that the interaction between type of immigration (highly
+  skilled IT vs general) and the effect of being a high-technology workers does
+  not seem to be significant adds to this concern.%
+  }
+  \verb{doi}
+  \verb 10.1111/ajps.12012
+  \endverb
+  \field{issn}{00925853}
+  \field{number}{2}
+  \field{pages}{391\bibrangedash 410}
+  \field{title}{{Economic Explanations for Opposition to Immigration:
+  Distinguishing between Prevalence and Conditional Impact}}
+  \field{volume}{57}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/Economic{\_}Explanations{\_}Immigra
+  \verb tion - AJPS.pdf:pdf
+  \endverb
+  \field{journaltitle}{American Journal of Political Science}
+  \field{year}{2013}
+\endentry
+
+\entry{Mayda2006}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mayda}{M.}%
+     {Anna~Maria}{A.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{international migration, political economy, immigr}
+  \strng{namehash}{MAM1}
+  \strng{fullhash}{MAM1}
+  \field{labelyear}{2006}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  This paper empirically analyzes economic and noneconomic determinants of
+  individual attitudes toward immigrants, within and across countries. The two
+  survey data sets used, covering a wide range of developed and developing
+  countries, make it possible to test for interactive effects between
+  individual characteristics and country-level attributes. In particular,
+  theory predicts that the correlation between pro-immigration attitudes and
+  individual skill should be related to the skill composition of natives
+  relative to immigrants in the destination country. Skilled individuals should
+  favor immigration in countries where natives are more skilled than immigrants
+  and oppose it otherwise. Results based on direct and indirect measures of the
+  relative skill composition are consistent with these predictions. Noneconomic
+  variables also are correlated with immigration attitudes, but they don't
+  alter significantly the labor-market results. Copyright by the President and
+  Fellows of Harvard College and the Massachusetts Institute of Technology.%
+  }
+  \verb{doi}
+  \verb 10.1162/rest.88.3.510
+  \endverb
+  \field{isbn}{0034-6535}
+  \field{issn}{0034-6535}
+  \field{number}{3}
+  \field{pages}{510\bibrangedash 530}
+  \field{title}{{Who Is Against Immigration? A Cross-Country Investigation of
+  Individual Attitudes toward Immigrants}}
+  \field{volume}{88}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/dp1115.pdf:pdf
+  \endverb
+  \field{journaltitle}{Review of Economics and Statistics}
+  \field{year}{2006}
+\endentry
+
+\entry{Mellon2016}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Mellon}{M.}%
+     {Jonathan}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Prosser}{P.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{british election 2015,differential turnout,don't know,late swing,online
+  polling,political polling,polling miss,public opinion,question
+  ordering,representative samples,shy tories,survey methodology,survey
+  weighting}
+  \strng{namehash}{MJPC1}
+  \strng{fullhash}{MJPC1}
+  \field{labelyear}{2016}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  The pre-election polls for the 2015 UK General Election missed the final
+  result by a considerable margin: underestimating the Conservative Party and
+  overestimating Labour. We analyse evidence for five theories of why the polls
+  missed using British Election Study data. We find limited evidence for
+  systematic vote intention misreporting, late swing, systematically different
+  preferences among “don't knows” or differential turnout of parties'
+  supporters. By comparing the BES face-to-face probability sample and online
+  panel, we show that the online survey's polling error is primarily caused by
+  under-sampling non-voters, then weighting respondents to represent the
+  general population. Consequently, demographic groups with a low probability
+  of voting are over-weighted within the voter subsample. Finally, we show that
+  this mechanism is likely partially responsible for the over-estimate of the
+  Liberal Democrats in 2010, showing that this is a longstanding problem with
+  British polls.%
+  }
+  \verb{doi}
+  \verb 10.2139/ssrn.2631165
+  \endverb
+  \field{issn}{1556-5068}
+  \field{title}{{Missing Non-Voters and Misweighted Samples: Explaining the
+  2015 Great British Polling Miss}}
+  \verb{url}
+  \verb http://papers.ssrn.com/abstract=2631165
+  \endverb
+  \field{journaltitle}{SSRN Electronic Journal}
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Mudde2013}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mudde}{M.}%
+     {Cas}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Immigration,Political parties,Radical right,Western Europe}
+  \strng{namehash}{MC1}
+  \strng{fullhash}{MC1}
+  \field{labelyear}{2013}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  The populist radical right constitutes the most successful party family in
+  postwar Western Europe. Many accounts in both academia and the media warn of
+  the growing influence of populist radical right parties (PRRPs), the
+  so-called ‘verrechtsing' (or right turn) of European politics, but few
+  provide empirical evidence of it. This lecture provides a first comprehensive
+  analysis of the alleged effects of the populist radical right on the people,
+  parties, policies and polities ofWestern Europe.The conclusions are
+  sobering.The effects are largely limited to the broader immigration issue,
+  and even here PRRPs should be seen as catalysts rather than initiators, who
+  are neither a necessary nor a sufficient condition for the introduction of
+  stricter immigration policies. The lecture ends by providing various expla-
+  nations for the limited impact of PRRPs, but it is also argued that populist
+  parties are not destined for success in opposition and failure in government.
+  In fact, there are at least three reasons why PRRPs might increase their
+  impact in the near future: the tabloidisation of political discourse; the
+  aftermath of the economic crisis; and the learning curve of PRRPs. Even in
+  the unlikely event that PRRPs will become major players inWest European
+  politics, it is unlikely that this will lead to a fundamental transformation
+  of the political system. PRRPs are not a normal pathology of European
+  democracy, unrelated to its basic values, but a pathological normalcy, which
+  strives for the radicalisation of mainstream values%
+  }
+  \verb{doi}
+  \verb 10.1111/j.1475-6765.2012.02065.x
+  \endverb
+  \field{isbn}{1475-6765}
+  \field{issn}{03044130}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 19}
+  \field{title}{{Three decades of populist radical right parties in Western
+  Europe: So what?}}
+  \field{volume}{52}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/MUDDE-2013-European{\_}Journal{\_}o
+  \verb f{\_}Political{\_}Research.pdf:pdf
+  \endverb
+  \field{journaltitle}{European Journal of Political Research}
+  \field{year}{2013}
+\endentry
+
+\entry{Orrenius2007}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Orrenius}{O.}%
+     {Pia~M.}{P.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zavodny}{Z.}%
+     {Madeline}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Immigrants,Natives,Wages}
+  \strng{namehash}{OPMZM1}
+  \strng{fullhash}{OPMZM1}
+  \field{labelyear}{2007}
+  \field{sortinit}{O}
+  \field{abstract}{%
+  Previous research has reached mixed conclusions about the effect of higher
+  levels of immigration on the wages of natives. This paper reexamines this
+  question using data from the Current Population Survey and the Immigration
+  and Naturalization Service and focuses on differential effects by skill
+  level. Using occupation as a proxy for skill, we find that an increase in the
+  fraction of foreign-born workers tends to lower the wages of natives in blue
+  collar occupations-particularly after controlling for endogeneity-but does
+  not have a statistically significant negative effect among natives in skilled
+  occupations. The results also indicate that immigrants adjusting their
+  immigration status within the U.S., but not newly arriving immigrants, have a
+  significant negative impact on the wages of low-skilled natives. This
+  suggests that immigrants become closer substitutes for natives as they spend
+  more time in the U.S. ?? 2006 Elsevier B.V. All rights reserved.%
+  }
+  \verb{doi}
+  \verb 10.1016/j.labeco.2006.09.006
+  \endverb
+  \field{isbn}{09275371}
+  \field{issn}{09275371}
+  \field{number}{5}
+  \field{pages}{757\bibrangedash 773}
+  \field{title}{{Does immigration affect wages? A look at occupation-level
+  evidence}}
+  \field{volume}{14}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/dp2481.pdf:pdf
+  \endverb
+  \field{journaltitle}{Labour Economics}
+  \field{year}{2007}
+\endentry
+
+\entry{Ottaviano2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ottaviano}{O.}%
+     {Gianmarco I~P}{G.~I.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peri}{P.}%
+     {Giovanni}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{OGIPPG1}
+  \strng{fullhash}{OGIPPG1}
+  \field{labelyear}{2012}
+  \field{sortinit}{O}
+  \field{abstract}{%
+  Abstract This paper calculates the effects of immigration on the wages of
+  native US workers of various skill levels in two steps. In the first step we
+  use labor demand functions to estimate the elasticity of substitution across
+  different groups of workers. Second, we use the ... $\backslash$n%
+  }
+  \field{number}{1}
+  \field{pages}{152\bibrangedash 197}
+  \field{title}{{Rethinking the effects of immigration on wages}}
+  \verb{url}
+  \verb http://onlinelibrary.wiley.com/doi/10.1111/j.1542-4774.2011.01052.x/ful
+  \verb l$\backslash$npapers3://publication/doi/10.1111/j.1542-4774.2011.01052.
+  \verb x
+  \endverb
+  \field{volume}{10}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/w12497.pdf:pdf
+  \endverb
+  \field{journaltitle}{Journal of the European Economic Association}
+  \field{year}{2012}
+\endentry
+
+\entry{Peri2009}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Peri}{P.}%
+     {Giovanni}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sparber}{S.}%
+     {Chad}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PGSC1}
+  \strng{fullhash}{PGSC1}
+  \field{labelyear}{2009}
+  \field{sortinit}{P}
+  \verb{doi}
+  \verb 10.1257/app.1.3.135
+  \endverb
+  \field{isbn}{1945-7782$\backslash$r1945-7790}
+  \field{issn}{19457782}
+  \field{number}{3}
+  \field{pages}{135\bibrangedash 169}
+  \field{title}{{Task Specialization, Immigrant, and Wage}}
+  \field{volume}{1}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/app{\%}2E1{\%}2E3{\%}2E135.pdf:pdf
+  \endverb
+  \field{journaltitle}{American Economic Journal: Applied Economics}
+  \field{year}{2009}
+\endentry
+
+\entry{Sanders2007}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Sanders}{S.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Clarke}{C.}%
+     {Harold~D.}{H.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stewart}{S.}%
+     {Marianne~C.}{M.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Whiteley}{W.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SD+1}
+  \strng{fullhash}{SDCHDSMCWP1}
+  \field{labelyear}{2007}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  Although political scientists have begun to investigate the properties of
+  Internet surveys, much remains to be learned about the utility of the
+  Internet mode for conducting major survey research projects such as national
+  election studies. This paper addresses this topic by presenting the results
+  of an extensive survey comparison experiment conducted as part of the 2005
+  British Election Study. Analyses show statistically significant, but
+  generally small, differences in distributions of key explanatory variables in
+  models of turnout and party choice. Estimating model parameters reveals that
+  there are few statistically significant differences between coefficients
+  generated using the in-person and Internet data, and the relative explanatory
+  power of rival models is virtually identical for the two types of data. In
+  general, the in-person and Internet data tell very similar stories about what
+  matters for turnout and party preference in Britain. Determining if similar
+  findings obtain in other countries should have high priority on the research
+  agenda for national election studies.%
+  }
+  \verb{doi}
+  \verb 10.1093/pan/mpl010
+  \endverb
+  \field{isbn}{1047-1987}
+  \field{issn}{10471987}
+  \field{number}{3}
+  \field{pages}{257\bibrangedash 285}
+  \field{title}{{Does mode matter for modeling political choice? Evidence from
+  the 2005 British Election Study}}
+  \field{volume}{15}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/Political Analysis-2007-Sanders-257
+  \verb -85.pdf:pdf
+  \endverb
+  \field{journaltitle}{Political Analysis}
+  \field{year}{2007}
+\endentry
+
+\entry{Scheve2001}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Scheve}{S.}%
+     {Kenneth~F.}{K.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Slaughter}{S.}%
+     {Matthew~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SKFSMJ1}
+  \strng{fullhash}{SKFSMJ1}
+  \field{labelyear}{2001}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  Abstract—This paper uses three years of individual-leve l data to
+  analyze$\backslash$nthe determinant s of individual preference s over
+  immigration policy in the United States. We have two main empirical results.
+  First, less-skilled workers are signi cantly more likely to prefer limiting
+  immigrant in ows into the United States. Our  nding suggests that, over
+  the time horizons that are relevant to individuals when evaluating
+  immigration policy, individuals think that the U.S. economy absorbs immigrant
+  in ows at least partly by changing wages. Second, we  nd no evidence that
+  the relationship between skills and immigration opinions is stronger in
+  high-immigration communities.%
+  }
+  \verb{doi}
+  \verb 10.1162/003465301750160108
+  \endverb
+  \field{isbn}{00346535}
+  \field{issn}{0034-6535}
+  \field{number}{1}
+  \field{pages}{133\bibrangedash 145}
+  \field{title}{{Labor Market Competition and Individual Preferences Over
+  Immigration Policy}}
+  \field{volume}{83}
+  \verb{file}
+  \verb :C$\backslash$:/Users/Jon/Downloads/v0002114.pdf:pdf
+  \endverb
+  \field{journaltitle}{Review of Economics and Statistics}
+  \field{year}{2001}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

@@ -1,0 +1,54 @@
+
+<<highskillonly, cache=TRUE, eval=TRUE, dpi=100, echo=FALSE, results='asis', message=FALSE, warning=FALSE>>=
+immig.high.skill <- immig[immig$edlevel2=="High Ed", ]
+# immig.high.skill$group[grepl("treat", immig.high.skill$group)] <- "Own job"
+middle.class.hypocrisy <- prop.table(table(immig.high.skill$dv, immig.high.skill$group), 2)
+middle.class.hypocrisy <- melt(middle.class.hypocrisy)
+colnames(middle.class.hypocrisy) <- c("More immigrants", "Group", "Fraction")
+middle.class.hypocrisy$`More immigrants` <- factor(middle.class.hypocrisy$`More immigrants`, 
+                                                   labels = levels(immig.high.skill$dv))
+
+middle.class.hypocrisy$Group <- factor(middle.class.hypocrisy$Group,
+                                       labels = c("Low", "Mixed", "High", "Own job"))
+
+# tapply(as.numeric(immig.high.skill$dv), immig.high.skill$group, mean, na.rm  = TRUE)
+
+
+
+ggplot(middle.class.hypocrisy, aes(x = Group, group = `More immigrants`,
+                                   y = Fraction, fill = `More immigrants`)) + 
+  geom_bar(stat = "identity", position = "dodge", colour = "black") + 
+  theme_bw() + scale_fill_grey(start = 0, end = 1, na.value = "red")  + 
+  ylab("Fraction") + xlab("Skill level (within control group)")
+@
+
+The labor market competition hypothesis states that native citizens will be most likely to oppose immigrants who are competing with them for jobs. Hainmueller and Hiscox operationalize this theory by hypothesizing that low skilled immigrants should be most opposed by low skilled native workers and that high skilled immigrants should be most opposed by high skilled native workers. Based on this operationalization, they run an experiment randomizing whether immigrants are described as low or high skilled. Based on their operationalization of the labor market competition theory of anti-immigrant sentiment, they find that both low and high skilled native workers favor high skilled immigrants over low skilled immigrants. Based on this finding, they conclude that anti-immigrant sentiment is not driven by rational considerations and is instead likely to be driven by ethnocentrist and sociotropic concerns.
+
+While Hainmueller and Hiscox's experimental test of the labor market competition hypothesis does test one aspect of the theory, it makes strong assumptions about the mechanism that may not be true in practice. Hainmueller and Hiscox's experiment is not an equivalent test for all of their respondents. People in low skilled occupations can potentially be economically threatened by any low skilled immigrant because any given low skilled immigrant can potentially work in any low skill job. Because these jobs require little initial human capital, there is little cost for them to switch from one low wage sector to another. This ability for workers to move from one sector to another makes makes wages in the low skill labor market more fluid than they would be in high skilled labor markets. 
+
+In fact, economic logic would suggest that workers of all skill levels should prefer high rather than low skilled immigrants, provided that those high skilled immigrants are not competing with the native worker. There is a clear benefit to expanding labor supply for anyone not in that section of the labor market: cheaper consumption.
+
+If there is a shortage of medical doctors, it is unlikely that large numbers of lawyers will retrain to become medics, because the human capital investment is too high, even if both professions draw from a similar pool of individuals prior to training. This means that doctors will not be economically threatened by a large influx of foreign lawyers, but will instead simply benefit from the cheaper legal services that result from the greater supply of lawyers.
+
+On the cost side, there are certain costs associated with any immigrant: extra demand for relatively fixed housing stock, the cost of providing public goods to a larger number of people etc. These costs are fairly fixed regardless of the skill level of the immigrant. However, the benefits of an immigrant to natives is higher the higher their skill level is. The reduced cost/increased supply of medical care that comes from having an additional 1,000 doctors is very likely to exceed the benefits of cheaper produce from having an additional 1,000 fruit pickers. Of course, the one exception to this is native doctors who are likely to lose out substantially from greatly increased competition. However, it is not clear that Hainmueller and Hiscox's experiment will actually induce doctors to consider competition from other doctors rather than induce them to consider the benefits of cheaper legal services or project management.
+
+Rather than indirectly implying a labor market threat to respondents through their skill level, I instead directly test the level of threat that respondents feel when confronted with immigrants who realistically could threaten their job.
+
+
+
+While the economic literature is still highly contested, a reasonable reading of the literature is that the overall economic effect of immigration is neutral or positive for natives, but that immigration has distributional implications for natives: there are losers and winners.  
+% \textcite{Hainmueller2010} outline two models for understanding anti-immigrant sentiment among native workers: the fiscal burden model and the labor market competition model. The fiscal burden model states that high skilled workers will be more concerned about low skilled immigration than other low skilled workers because these immigrants are more likely to be a net drain on public services and the high skilled native workers shoulder a larger portion of the tax burden for these services. 
+
+\section{Post-hoc Analysis of Predictors of cultural threat}
+
+This appendix shows the post-hoc analysis of predictors of cultural threat in the control group. 
+
+<<moreCulturalThreatsPredictors, cache=TRUE, warning = FALSE, error = FALSE, message=FALSE>>=
+immig.manip.culture <- polr(data = immig.replicate, 
+                            formula = factor(immigManipCheck2)~ group + edlevel2 + group:edlevel2 )
+
+texreg(immig.manip.culture, 
+       label = "table:manipcheckCulturalreplicate",
+       caption = "Ordered logistic regression predictors of cultural threat",
+       custom.coef.names = makeNice(names(immig.manip.culture$coefficients)))
+@
